@@ -8,4 +8,7 @@ public class Operation {
   public static int soustraction(int x, int y){
                 return x-y;
         }
+  public static float division(int x, int y){
+                return (float) x / (float) y;
+        }
 }
