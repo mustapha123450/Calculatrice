@@ -3,6 +3,10 @@ public class Main {
         int a = 2;
         int b = 3;
         int resultat = Operation.produit(a, b);
+	int resultat1 = Operation.addition(a, b);
+	int resultat2 = Operation.soustraction(a, b);
         System.out.println(a +"*" + b+"=" + resultat);
+	System.out.println(a +"+" + b+"=" + resultat1);
+	System.out.println(a +"-" + b+"=" + resultat2);
     }
 }
