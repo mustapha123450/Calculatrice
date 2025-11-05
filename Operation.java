@@ -9,6 +9,8 @@ public class Operation {
                 return x-y;
         }
   public static float division(int x, int y){
-                return (float) x / (float) y;
+		if (y!=0){
+                return (float) x / (float) y;}
+		else {return 0;}
         }
 }
