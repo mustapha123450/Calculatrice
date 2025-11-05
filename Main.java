@@ -9,5 +9,6 @@ public class Main {
         System.out.println(a +"*" + b+"=" + resultat);
 	System.out.println(a +"+" + b+"=" + resultat1);
 	System.out.println(a +"-" + b+"=" + resultat2);
+	System.out.println("Au revoir");
     }
 }
