@@ -15,6 +15,7 @@ public class Main {
 	System.out.println(a +"/" + b+"=" + resultat3);
 	System.out.println(a +"/" + c+"=" + resultat4);
 	System.out.println("Au revoir");
+	System.out.println("Bonsoir");
 	
 }
 }
